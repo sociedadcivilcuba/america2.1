@@ -8,9 +8,9 @@ AMÉRICA NUESTRA es un blog creado en junio de 2014 por un grupo de ciudadanos l
 
 ## COMPARTE
 
-Copia y comparte (por WhatsApp, email, etc.) el enlace para llegar a esta página y descargar esta aplicación: 
+Copia y comparte (por WhatsApp, email, etc.) el enlace para descargar directamente a tu móvil esta aplicación: 
 
-**https://bit.ly/america21**
+**[https://bit.ly/america21](https://bit.ly/america21)**
 
 
 ## ¿PORQUÉ EN GITHUB?

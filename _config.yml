@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+lang: "es-ES"
+title: "AMÉRICA 2.1 app"
+description: "Aplicación que muestra las últimas publicaciones en el blog americanuestra.com"
+show_downloads: "true"
